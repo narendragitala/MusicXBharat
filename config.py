@@ -12,13 +12,13 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","itsMeShivanshu")
+OWNER_USERNAME = getenv("OWNER_USERNAME","mr_naru")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "TheChampuBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "narumusicwala_bot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "TheChampuBot")
+BOT_NAME = getenv("BOT_NAME" , "naru baby")
 #get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME" , "TheChampu")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Thenaru")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -48,8 +48,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", ""
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TheChampuStore")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Chatting_Club01")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BROKENSHAYRI1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SHAYRIGALIBKI")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -87,10 +87,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/198796f3ccc75371ab627.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/84870d6d89b893e59c5f0.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/198796f3ccc75371ab627.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/bb12fccd5d89ea5ed98d7.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d0afbc0637f8fa3a95587.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/c97eab3ee44c7fef1d7e4.jpg"
